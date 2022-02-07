@@ -6,13 +6,13 @@ The goal of this project was to help Basil and Sadhana build an interactive eart
 ## Results
 
 ### Tectonic Plates incorporation:
-![map1]9https://github.com/damienfranco/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/map1.png)
+![map1](https://github.com/damienfranco/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/map1.png)
 
 
 ### Adding Major Earthquake Data
-![map2]9https://github.com/damienfranco/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/map2.png)
+![map2](https://github.com/damienfranco/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/map2.png)
 
 
 ### Adding Additional Map Layers
-![map3]9https://github.com/damienfranco/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/map3.png)
+![map3](https://github.com/damienfranco/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/map3.png)
 
